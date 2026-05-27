@@ -1,5 +1,5 @@
 context:
-  version: "0.3.0"
+  version: "0.4.0"
 
 package:
   name: absurd-sdk
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/a/absurd-sdk/absurd_sdk-${{ version }}.tar.gz
-    sha256: 4fa1c794e483f5b8893e86ac0a68ff005b0d059a14c4c93743f9ed45625ee206
+    sha256: 2c17c81c9ead963c8596fc65e0a68ad1a4bd5b917745a5b2390d0e962f78dd02
   - url: https://raw.githubusercontent.com/earendil-works/absurd/main/LICENSE
     sha256: a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2
     file_name: LICENSE
